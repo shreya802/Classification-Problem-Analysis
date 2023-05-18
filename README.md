@@ -1,5 +1,5 @@
-# Classification-Problem-Analysis
-This repository contains exploratory data analysis on Classification problem using Logistic Regression.
+# Classification-system
+This repository contains exploratory data analysis on Income Classification problem and build classifier system using Logistic Regression technique.
 
 **Problem Statement**:
 Subsidy Inc. is company which delivers subsidies to individuals based on their income.Classify the income level based on attributes we have for individual level.
